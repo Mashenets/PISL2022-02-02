@@ -1,4 +1,4 @@
-package by.it.group973602.kulichik.lesson04;
+package by.it.group973602.kulik.lesson04;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
